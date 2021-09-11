@@ -1,0 +1,21 @@
+P5:
+total 1556
+-rw-r--r--. 1 myid 1304012 May  2 12:02 dictionary.txt
+-rw-r--r--. 1 myid   19358 May  2 16:26 functions.cpp
+-rw-r--r--. 1 myid    3536 May  2 13:20 functions.h
+-rwxr-xr-x. 1 myid  183984 May  2 16:51 hangman
+-rw-r--r--. 1 myid     324 May  2 11:49 hangman.cpp
+-rw-r--r--. 1 myid     196 May  2 11:48 Makefile
+-rw-r--r--. 1 myid     612 May  2 16:50 README.txt
+-rw-r--r--. 1 myid    1069 May  2 16:39 rec27705
+-rw-r--r--. 1 myid       0 May  2 16:51 rec3600
+-rw-r--r--. 1 myid    6173 May  2 12:02 words-1000.txt
+-rw-r--r--. 1 myid   18414 May  2 12:02 words-2000.txt
+-rw-r--r--. 1 myid    4557 May  2 12:02 words-500.txt
+-rw-r--r--. 1 myid      45 May  2 02:02 words-9.txt
+-rw-r--r--. 1 myid       8 May  2 02:02 words-random.txt
+-rw-r--r--. 1 myid      61 May  2 02:02 words-with-common.txt
+-rw-r--r--. 1 myid      50 May  2 02:02 words-with-dup.txt
+-rw-r--r--. 1 myid      36 May  2 02:02 words-with-same-families.txt
+-rw-r--r--. 1 myid      72 May  2 02:02 words-with-smallest-charLoc.txt
+/home/myid/mmp22533/1730/projects/P5:/home/myid/csci-1730
